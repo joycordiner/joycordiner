@@ -8,8 +8,7 @@ Acquiring a very ‘hands-on’ approach to learning, I am incredibly eager to e
 #### Premier Banking Client Service Executive
 Deepening client relationships by delivering an exceptional experience that helps them achieve their ambitions and meets their day to day banking needs, working collaboratively with a multi-department team.
 
-
-### Code First: Girls at JP Morgan, Since 10/19
+### Code First: Girls at JP Morgan, 10/19 - 12/19
 #### Level 1 Front End (HTML/CSS/Javascript)  
 Creating great user experiences building websites with HTML, CSS, Javascript, JQuery, Bootstrap and GitHub.
     
