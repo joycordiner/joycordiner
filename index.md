@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/joycordiner/joycordiner/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A conscientious, hard-working and reliable team player, with a professional attitude and a very pleasant demeanour.
+Acquiring a very ‘hands-on’ approach to learning, I am incredibly eager to expand on my current passion-fuelled career in the financial industry.
 
 ### Markdown
 
