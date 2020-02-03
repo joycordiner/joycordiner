@@ -1,3 +1,9 @@
 title: Joy Cordiner
 logo: "../joy.png?raw=true"
+description:
+First Description if you want it
+<br><br>
+Second Description if you need it
+<br><br>
+<a href="https://www.linkedin.com/joycordiner/">My LinkedIn Profile
 theme: jekyll-theme-minimal
