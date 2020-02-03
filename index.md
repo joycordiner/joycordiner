@@ -40,7 +40,6 @@ Customer Care Assistant, 09/13-02/14
 Accountable for delivering a world-class service by resolving and responding to any colleague/customer queries with excellent written and verbal skills; compiling documentation and client details into a database; working pro-actively within a small team.
 
 
-
 ```markdown
 Syntax highlighted code block
 
