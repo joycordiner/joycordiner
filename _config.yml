@@ -9,9 +9,9 @@ description:
   <br><br>
   <a href="https://www.linkedin.com/joycordiner/">My LinkedIn Profile</a>
   <br><br>
-scalar: Proficiencies//
+    Proficiencies -
     Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe Muse, 
-    Adobe AfterEffects, Microsoft Office Suite, InVision, LaTeX,HTML,
+    Adobe AfterEffects, Microsoft Office Suite, InVision, LaTeX, HTML,
     CSS, Markdown, Javascript, GitHub, JQuery, Bootstrap, Agile.
   
 theme: jekyll-theme-minimal
