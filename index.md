@@ -6,18 +6,17 @@ Acquiring a very ‘hands-on’ approach to learning, I am incredibly eager to e
 ## Experience
 ### Barclays Bank UK PLC, since 09/18
 #### Premier Banking Client Service Executive
-Deepening client relationships by delivering an exceptional experience that helps them achieve their ambitions and meets their day to day banking needs, working collaboratively with a multi-department team.
+*Deepening client relationships by delivering an exceptional experience that helps them achieve their ambitions and meets their day to day banking needs, working collaboratively with a multi-department team.*
 
 ### Code First: Girls at JP Morgan, 10/19 - 12/19
 #### Level 1 Front End (HTML/CSS/Javascript)  
-Creating great user experiences building websites with HTML, CSS, Javascript, JQuery, Bootstrap and GitHub.
+*Creating great user experiences building websites with HTML, CSS, Javascript, JQuery, Bootstrap and GitHub.*
     
 ### *Hospitality and Retail*
 ### Macdonald Hotels & Resorts Ltd
 #### Event Operations and Waiting, 07/18 - 09/18
 
-### 200 SVS Ltd
-#### Marketing/Secretary/Banqueting/Barista, 07/17 - 07/18
+### 200 SVS Ltd - Marketing/Secretary/Banqueting/Barista, 07/17 - 07/18
 
 ### La Vita George Square Ltd
 #### Waitress, 09/16 - 03/17
