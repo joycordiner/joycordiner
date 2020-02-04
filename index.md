@@ -42,15 +42,15 @@ Accountable for delivering a world-class service by resolving and responding to 
 
 ## Volunteering 
 ### Barclays Citizenship
-Volunteer, Since 01/20 
+#### Volunteer, Since 01/20
 Creating lasting relationships within the local community.
 
 ### Ambassadors Football USA
-Soccer Coach, 06/16 - 08/16
+#### Soccer Coach, 06/16 - 08/16
 A voluntary experience overseas in partnership with an organisation called Ambassadors Football USA where I was selected to work with a diverse group of people from all around the world to provide weekly football camps for children ages 5-16.
 
 ### Deeside Christian Fellowship Church
-Community Volunteer/Teacher, 06/12 - 06/16
+#### Community Volunteer/Teacher, 06/12 - 06/16
 Adept at handling a wide range of class sizes and developing lesson plans for children between the ages of 3-14; including meaningful conversations and the development of their written and verbal skills. Gaining experience in handling a wide range of class sizes and ages.
 
 
