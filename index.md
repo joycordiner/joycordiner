@@ -14,13 +14,13 @@ Acquiring a very ‘hands-on’ approach to learning, I am incredibly eager to e
     
 ### *Hospitality and Retail*
 ### Macdonald Hotels & Resorts Ltd
-#### *Event Operations and Waiting, 07/18 - 09/18*
+#### Event Operations and Waiting, 07/18 - 09/18
 
 ### 200 SVS Ltd
-#### *Marketing/Secretary/Banqueting/Barista, 07/17 - 07/18*
+#### Marketing/Secretary/Banqueting/Barista, 07/17 - 07/18
 
 ### La Vita George Square Ltd
-#### *Waitress, 09/16 - 03/17*
+#### Waitress, 09/16 - 03/17
     
 ### Morrisons Supermarkets Plc
 #### Sales Assistant, 09/14 - 05/16
