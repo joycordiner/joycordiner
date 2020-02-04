@@ -12,11 +12,12 @@ Acquiring a very ‘hands-on’ approach to learning, I am incredibly eager to e
 #### Level 1 Front End (HTML/CSS/Javascript)  
 *Creating great user experiences building websites with HTML, CSS, Javascript, JQuery, Bootstrap and GitHub.*
     
-### *Hospitality and Retail*
+## *Hospitality and Retail*
 ### Macdonald Hotels & Resorts Ltd
 #### Event Operations and Waiting, 07/18 - 09/18
 
-### 200 SVS Ltd - Marketing/Secretary/Banqueting/Barista, 07/17 - 07/18
+### 200 SVS Ltd
+#### Marketing/Secretary/Banqueting/Barista, 07/17 - 07/18
 
 ### La Vita George Square Ltd
 #### Waitress, 09/16 - 03/17
@@ -27,7 +28,7 @@ Acquiring a very ‘hands-on’ approach to learning, I am incredibly eager to e
 ### New Look Ltd
 #### Customer Care Assistant, 09/13 - 02/14
    
-### *Business*
+## *Business*
 ### G1 Group PLC
 #### Public Relations, 07/17 - 01/18
   
