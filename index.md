@@ -30,40 +30,31 @@ Customer Care Assistant, 09/13-02/14
    
 ### Business
 #### G1 Group PLC
-##### Public Relations, 07/17-01/18
+Public Relations, 07/17-01/18
   
 #### Mix Jar Young Enterprise Scotland
-##### Managing Director, 09/14-06/15
+Managing Director, 09/14-06/15
     
 #### World Energy Link Ltd
-##### Administrator, 12/12-01/14
+Administrator, 12/12-01/14
 Accountable for delivering a world-class service by resolving and responding to any colleague/customer queries with excellent written and verbal skills; compiling documentation and client details into a database; working pro-actively within a small team.
 
 
-```markdown
-Syntax highlighted code block
+## Volunteering 
+### Barclays Citizenship
+Volunteer, Since 01/20 
+Creating lasting relationships within the local community.
 
-# Header 1
-## Header 2
-### Header 3
+### Ambassadors Football USA
+Soccer Coach, 06/16 - 08/16
+A voluntary experience overseas in partnership with an organisation called Ambassadors Football USA where I was selected to work with a diverse group of people from all around the world to provide weekly football camps for children ages 5-16.
 
-- Bulleted
-- List
+### Deeside Christian Fellowship Church
+Community Volunteer/Teacher, 06/12-06/16
+Adept at handling a wide range of class sizes and developing lesson plans for children between the ages of 3-14; including meaningful conversations and the development of their written and verbal skills. Gaining experience in handling a wide range of class sizes and ages.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Interests
+Varying from Football and Hockey; to Technology, Youth Work, Mindfulness and Travel.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joycordiner/joycordiner/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Excellent references available upon request.
