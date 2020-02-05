@@ -4,7 +4,7 @@
 Acquiring a very ‘hands-on’ approach to learning, I am incredibly eager to expand on my current passion-fuelled career in the financial industry.*
 
 ## Experience
-### Barclays Bank UK PLC, since 09/18
+### Barclays Bank UK PLC, since 10/18
 #### Premier Banking Client Service Executive
 *Deepening client relationships by delivering an exceptional experience that helps them achieve their ambitions and meets their day to day banking needs, working collaboratively with a multi-department team.*
 
